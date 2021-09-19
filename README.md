@@ -5,6 +5,6 @@
     following technologies in the day by day 
 
     ⚡ React JS, Redux
-    ⚡ Javascript 
+    ⚡ Javascript, Typescript
     ⚡ HTML - CSS (and SASS)
 
