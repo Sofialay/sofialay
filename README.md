@@ -23,6 +23,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofialay&layout=compact)](https://github.com/sofialay/github-readme-stats)
 
-![Sofi's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=tokyonight) 
-
 ![Rectangle 1 (1)](https://user-images.githubusercontent.com/61565638/138537438-258285ea-6e32-4594-9f14-0ba6c20e2c26.png)
