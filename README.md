@@ -22,12 +22,13 @@
     
     ⚡ HTML - CSS (and SASS) 
     
----------
+---
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofialay&layout=compact)](https://github.com/sofialay/github-readme-stats)
 
 ![Rectangle 1 (1)](https://user-images.githubusercontent.com/61565638/138537438-258285ea-6e32-4594-9f14-0ba6c20e2c26.png)
 
 ### How to reach me:
-* ✨ Linkedin: https://www.linkedin.com/in/sofialay/
-* ✨ Instagram: https://instagram.com/sofialay
+* ✨ <a href='https://www.linkedin.com/in/sofialay/'>Linkedin</a>
+ 
+* ✨ <a href='https://instagram.com/sofialay'>Instagram</a>
