@@ -1,6 +1,6 @@
 ## Hello there, I'm Sofía 🌈
 
-🪐  I'm a curious person an estusiast learner of web development
+🪐  I'm a curious person and estusiast learner of web development
 
 🪐  Centered in making engaging and accessibles UI's
 
