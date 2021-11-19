@@ -18,7 +18,7 @@
     
     ⚡ Javascript
     
-    ⚡ Storybook
+    ⚡ Storybook with Component Driven UI
     
     ⚡ HTML - CSS (and SASS) 
     
