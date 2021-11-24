@@ -4,7 +4,7 @@
 
 🪐  Centered in making engaging and accessibles UI's
 
-🪐 I work as a Front End Developer in <a href="https://umasalud.com.mx/" target="_blank">Üma Health</a>
+🪐 I work as a Front End Developer in <a href="https://umasalud.com/" target="_blank">Üma Health</a>
 
 ✨ *My pronouns are she/her*
 
