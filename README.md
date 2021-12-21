@@ -31,4 +31,4 @@
 ### How to reach me:
 * ✨ <a href='https://www.linkedin.com/in/sofialay/' target='_blank'>Linkedin</a>
  
-* ✨ <a href='https://instagram.com/sofilay' target='_blank'>Instagram</a>
+* ✨ <a href='mailto:laysofiabelen@gmail.com'>Gmail</a>
