@@ -1,4 +1,4 @@
-## Hello there, I'm Sofía 🌈
+## Hello there, I'm Sofía
 
 🪐  I'm a curious person and estusiast learner of web development
 
@@ -31,6 +31,6 @@
 <!--![Rectangle 1 (1)](https://user-images.githubusercontent.com/61565638/138537438-258285ea-6e32-4594-9f14-0ba6c20e2c26.png)-->
 
 ### How to reach me:
-* ✨ <a href='https://www.linkedin.com/in/sofialay/' target='_blank'>Linkedin</a>
+* <a href='https://www.linkedin.com/in/sofialay/' target='_blank'>Linkedin</a>
  
-* ✨ <a href='mailto:laysofiabelen@gmail.com'>Gmail</a>
+* <a href='mailto:laysofiabelen@gmail.com'>Gmail</a>
