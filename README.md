@@ -4,7 +4,7 @@
 
 🪐  Centered in making engaging and accessibles UI's
 
-🪐 I work as a Front End Developer in <a href="https://www.paisanos.io/" target="_blank">Paisanos</a>
+🪐 I work as a Front End Developer at <a href="https://www.paisanos.io/" target="_blank">Paisanos</a>
 
 🪐 See more about me in my [portfolio](https://sofialay.vercel.app/)
 
