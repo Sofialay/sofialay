@@ -4,15 +4,9 @@
 
 🪐  Centered in making engaging and accessibles UI's
 
-🪐 I work as a Front End Developer at <a href="https://www.paisanos.io/" target="_blank">Paisanos</a>
+🪐 I work as a Product Engineer at <a href="https://www.paisanos.io/" target="_blank">UMA Health</a>
 
-🪐 See more about me in my [portfolio](https://sofialay.vercel.app/)
+🪐 See more about me in my [portfolio](https://sofialay.webflow.io/)
 
-✨ *My pronouns are she/her*
 
 ![Rectangle 1 (1)](https://user-images.githubusercontent.com/61565638/138537438-258285ea-6e32-4594-9f14-0ba6c20e2c26.png)
-
-### How to reach me:
-* <a href='https://www.linkedin.com/in/sofialay/' target='_blank'>Linkedin</a>
- 
-* <a href='mailto:laysofiabelen@gmail.com'>Gmail</a>
