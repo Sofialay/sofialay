@@ -4,7 +4,7 @@
 
 🪐  Centered in making engaging and accessibles UI's
 
-🪐 I work as a Product Engineer at <a href="https://www.paisanos.io/" target="_blank">UMA Health</a>
+🪐 I work as a Product Engineer at UMA Health
 
 🪐 See more about me in my [portfolio](https://sofialay.webflow.io/)
 
